@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meu currículo">
+    <meta name="author" content="Nicolas Almeida da Silva">
+    <link rel="stylesheet" href="./styles.css">
+    
+    <title>Currículo</title>
+</head>
+<body>
+    
+    <header class="intro">
+        <h1 class="fonte1">NICOLAS ALMEIDA</h1>
+        <h2 class="fonte2">Estudante de Ciência da Computação</h2>
+    </header>
+    <header class="apresentacao">
+        <h3 class="sobre mim">SOBRE NICOLAS</h3>
+        <p class="text">Sou estudante de ciência da computação na Universidade Paulista de Campinas. Experiência com atendimento ao público e sistemas, conhecimento geral em computador de nível intermediário. Procuro oportunidade de emprego em setor administrativo ou TI.</p>
+    </header>
+    <header class="contatos">
+        <h3>Informação de contatos</h3>
+        <p>Celular(WhatsApp): <a href="https://wa.me/5519994089926" target="_blank">(19) 9 94089926</a><br>
+            Celular(Recado): (19) 9 95306568<br>
+            Estrada Municipal Fazenda Santana, 2135, Morada da
+            Lua(Bosque), Vinhedo/SP<br>
+            Email: nicolas01almeida@gmail.com<br>
+            LinkedIn: <a href="https://www.linkedin.com/in/nicolas-almeida-8ab3891a6/" target="_blank">https://www.linkedin.com/in/nicolas-almeida8ab3891a6/</a><br>
+            </p><br>
+    </header>
+    <div class="travessao"></div>
+    <header class="exp">
+        <h3>Experiência Profissional</h3>
+        <h4>Jovem Aprendiz</h4>
+        <p>SAM PARTNERS IN HEALTH<br>
+            DEZ/2017 - DEZ/2019<br><br>
+            - Atendimento ao público;<br>
+            - Planilhas em Excel;<br>
+            - Sistemas de agendamento;<br>
+        </p>
+        <h4>Efetivação de Jovem Aprendiz</h4>
+        <p>SAM PARTNERS IN HEALTH<br>
+            DEZ/2019 - FEV/2023<br><br>
+            - Atendimento ao público;<br>
+            - Planilhas em Excel;<br>
+            - Sistemas de agendamento;<br>
+        </p>
+    </header>
+    <div class="travessao2"></div>
+    
+</body>
+</html>
